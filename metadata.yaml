@@ -1,5 +1,8 @@
 _repo: Suicide-Its-History-Literature-Jurisprudence-Causation-and-Prevention_58766
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58766-h/images/cover.jpg
 creator:
   author:
     agent_name: Westcott, W. Wynn (William Wynn)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50143
     wikipedia: https://en.wikipedia.org/wiki/William_Wynn_Westcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58766#Suicide-Its-History-Literature-Jurisprudence-Causation-and-Prevention
 gutenberg_issued: '2019-01-24'
 gutenberg_type: Text
 identifiers:
